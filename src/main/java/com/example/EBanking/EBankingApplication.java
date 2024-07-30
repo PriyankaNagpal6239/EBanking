@@ -8,7 +8,7 @@ public class EBankingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EBankingApplication.class, args);
-		System.out.println("Hello Running project");
+		System.out.println("Hello, project is working as expected");
 	}
 
 }
